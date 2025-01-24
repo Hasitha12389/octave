@@ -1,7 +1,11 @@
 Overview
+
+
 This project implements a Scientific Calculator using MATLAB/Octave, which provides advanced mathematical functions beyond basic arithmetic. The calculator supports operations like exponents, trigonometric functions (sine, cosine, tangent), logarithms, factorials, and many others. It is designed to be user-friendly, featuring an interactive graphical interface where the user can perform calculations by clicking buttons.
 
 Features
+
+
 Mathematical Operations:
 Exponentiation: x^y, x^2, x^3, x^(1/2), x^(1/3), etc.
 Trigonometric functions: sin, cos, tan, sec, cosec, cot (using degrees).
