@@ -63,4 +63,6 @@ License
 This project is licensed under the MIT License.
 
 Acknowledgments
+
+
 This calculator was built using MATLAB/Octave's GUI tools and is designed to be a simple yet powerful scientific calculator for use by students and professionals alike.
